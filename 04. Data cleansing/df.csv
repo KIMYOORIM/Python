@@ -1,0 +1,16 @@
+,C1,C1_NM,C1_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,C2,C2_NM,C2_NM_ENG,C2_OBJ_NM,C2_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM,UNIT_NM_ENG
+0,0,수주총액,Total amount of orders received,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,6696640,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+1,0,수주총액,Total amount of orders received,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,4608299,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+2,0,수주총액,Total amount of orders received,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,2088341,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+3,1,공공부문,Public sector,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,1730477,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+4,1,공공부문,Public sector,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,438254,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+5,1,공공부문,Public sector,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,1292223,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+6,2,민간부문,Private sector,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,4641419,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+7,2,민간부문,Private sector,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,3927064,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+8,2,민간부문,Private sector,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,714355,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+9,3,국내외국기관,Foreign org. in korea,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,149791,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+10,3,국내외국기관,Foreign org. in korea,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,149791,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+11,3,국내외국기관,Foreign org. in korea,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,0,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+12,4,민자,Private investment,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,174953,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+13,4,민자,Private investment,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,93190,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+14,4,민자,Private investment,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,81763,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
