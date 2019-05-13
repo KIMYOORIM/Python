@@ -1,0 +1,36 @@
+START PORT SCANNING21 port is open
+\begin{tabular}{|r|l|l|}
+\hline
+ftp & open & SA \\
+\hline
+\hline
+\hline
+\end{tabular}
+
+22 port is open
+\begin{tabular}{|r|l|l|}
+\hline
+ssh & open & SA \\
+\hline
+\hline
+\hline
+\end{tabular}
+
+260 port is open
+\begin{tabular}{|r|l|l|}
+\hline
+\hline
+openport & closed & TCP RA \\
+\hline
+\hline
+\end{tabular}
+
+557 port is open
+\begin{tabular}{|r|l|l|}
+\hline
+\hline
+openvms_sysipc & closed & TCP RA \\
+\hline
+\hline
+\end{tabular}
+
